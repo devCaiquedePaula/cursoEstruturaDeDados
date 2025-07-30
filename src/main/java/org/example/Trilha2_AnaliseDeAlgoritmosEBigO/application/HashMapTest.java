@@ -1,4 +1,4 @@
-package org.example.Trilha1;
+package org.example.Trilha1_FundamentosEConfiguracao;
 
 import java.util.HashMap;
 
@@ -7,7 +7,7 @@ public class HashMapTest {
     private static final int TAMANHO = 1000000;
 
     public static void main(String[] args) {
-        HashMap<Integer, Produto> map = new HashMap<Integer, Produto>();
+        HashMap<Integer, Produto> map = new HashMap<>();
 
         for (int i = 0; i <= TAMANHO; i++) {
             map.put(i, new Produto(i, "Produto " + i, i*20.0));

@@ -1,4 +1,4 @@
-package org.example.Trilha1;
+package org.example.Trilha1_FundamentosEConfiguracao;
 
 public class Produto {
     private Integer id;

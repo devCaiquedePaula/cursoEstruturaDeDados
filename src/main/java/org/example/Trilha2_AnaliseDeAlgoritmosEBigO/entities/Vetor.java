@@ -1,4 +1,4 @@
-package org.example.Trilha2;
+package org.example.Trilha2_AnaliseDeAlgoritmosEBigO;
 
 public class Vetor {
     private String[] elementos;

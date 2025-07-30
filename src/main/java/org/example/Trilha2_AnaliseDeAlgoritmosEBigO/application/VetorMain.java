@@ -1,6 +1,6 @@
-package org.example.Trilha2.application;
+package org.example.Trilha2_AnaliseDeAlgoritmosEBigO.application;
 
-import org.example.Trilha2.Vetor;
+import org.example.Trilha2_AnaliseDeAlgoritmosEBigO.Vetor;
 
 public class Main {
     public static void main(String[] args) {
