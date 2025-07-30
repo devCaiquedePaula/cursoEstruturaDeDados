@@ -1,8 +1,8 @@
 package org.example.Trilha2_AnaliseDeAlgoritmosEBigO.application;
 
-import org.example.Trilha2_AnaliseDeAlgoritmosEBigO.Vetor;
+import org.example.Trilha2_AnaliseDeAlgoritmosEBigO.entities.Vetor;
 
-public class Main {
+public class VetorMain {
     public static void main(String[] args) {
 
         try {

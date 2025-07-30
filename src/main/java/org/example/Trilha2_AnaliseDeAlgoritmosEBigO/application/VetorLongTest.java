@@ -1,4 +1,4 @@
-package org.example.Trilha1_FundamentosEConfiguracao;
+package org.example.Trilha2_AnaliseDeAlgoritmosEBigO.application;
 
 public class VetorLongTest {
     // Tempo gasto: 3267 ms
